@@ -49,7 +49,7 @@ def ecoli_multiplication(i):
     elif i == 0:
         dedt[i] = ecoli_count.ecolicount
         dgadt[i] = galactose_count.galactose_count
-    elif i % 20 == 0:
+    elif i % 2 == 0:
         dedt[i] = 2 * ecoli_count.ecoli_count
         ecoli_count.ecolicount = dedt[i]
     else:
@@ -57,11 +57,11 @@ def ecoli_multiplication(i):
 
 
 def glucose_consumption(i):
-    if i % 30 == 0:
+    if i % 3 == 0:
         glucose_count.glucosecount = glucose_count.glucosecount + 100
 
     if glucose_count.glucose_count > 0:
-        dgdt[i] = glucose_count.glucose_count - ecoli_count.ecoli_count * 0.1
+        dgdt[i] = glucose_count.glucose_count - ecoli_count.ecoli_count * 0.12
         glucose_count.glucosecount = dgdt[i] if dgdt[i] >= 0 else 0
 
         if dgdt[i] < 0:
