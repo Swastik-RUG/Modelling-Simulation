@@ -7,9 +7,10 @@ Modelling and Simulation - University of Groningen
 
 **ecoli_simulation.py**  
   Simulates a theoritcal model of the Ecoli division and Glucose & Galactose consumption.
-  The Ecoli cell division duration is downscaled from 20min to 2min to obtain a wider range on the graph.
-  A detailed report of the concept, modelling and simulation can be found in our [report](https://github.com/Swastik-RUG/Modelling-Simulation/blob/dev/report/E_Coli_Colony_simulation_team_19_report.pdf)
- Sample Result
+  The Ecoli cell division duration is downscaled from 20min to 2min to obtain a wider range on the graph.  
+  A detailed report of the concept, modelling and simulation can be found in our **[report](https://github.com/Swastik-RUG/Modelling-Simulation/blob/dev/report/E_Coli_Colony_simulation_team_19_report.pdf)**  
+
+### Simulations:
  
 ## Static Snapshots of the Simulation can be found in the [images/ folder](https://github.com/Swastik-RUG/Modelling-Simulation/tree/dev/images)  
  
