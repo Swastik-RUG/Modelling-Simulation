@@ -1,5 +1,5 @@
 # Modelling-Simulation
-Modelling and Simulation - University of Groningen
+# Modelling and Simulation - University of Groningen
 
 ## Simulation of Escherichia coli (E. Coli) Growth in Presence of VariousCarbon Sources
 ### Group - 19
@@ -15,20 +15,20 @@ Modelling and Simulation - University of Groningen
 ## Static Snapshots of the Simulation can be found in the [images/ folder](https://github.com/Swastik-RUG/Modelling-Simulation/tree/dev/images)  
  
 ## Ecoli Division under Normal scenario, without replenishment of food  
- ![](simulations/Ecoli-Normal.gif)  
- 
+  ![](simulations/Ecoli-Normal.gif)  
+
 ## Ecoli Division under Starvation scenario, without replenishment of food  
  ![](simulations/Ecoli-Starvation.gif)  
 
 ## Ecoli Division under Lactose Only scenario, without replenishment of food  
- ![](simulations/Ecoli-LactoseOnly.gif)  
-  
+   ![](simulations/Ecoli-LactoseOnly.gif)  
+
  ## Ecoli Division under Stable scenario, with replenishment of food  
- ![](simulations/Ecoli-stable.gif)  
- 
+  ![](simulations/Ecoli-stable.gif)  
+
  ## Ecoli Division under Stable Glucose and Galactose only scenario, with replenishment of food  
- ![](simulations/Ecoli-stableGlucose.gif)  
- 
+  ![](simulations/Ecoli-stableGlucose.gif)  
+
  ## Ecoli Division under Stable Lactose scenario, with replenishment of food  
  ![](simulations/Ecoli-stableLactose.gif)  
 
