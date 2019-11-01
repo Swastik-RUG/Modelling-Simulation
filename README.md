@@ -1,5 +1,5 @@
 # Modelling-Simulation
-Modelling and Simulation - University of Groningen
+# Modelling and Simulation - University of Groningen
 
 ## Simulation of Escherichia coli (E. Coli) Growth in Presence of VariousCarbon Sources
 ### Group - 19
