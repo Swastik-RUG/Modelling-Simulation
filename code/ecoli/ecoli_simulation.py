@@ -73,7 +73,7 @@ parser.read("conf.ini")
 # --------------------------------------------------------------------------
 master = Tk()
 var = StringVar()
-Label(master, text="Select OCR language").grid(row=0, sticky=W)
+Label(master, text="Select Simulation to run").grid(row=0, sticky=W)
 Radiobutton(master, text="Normal", variable=var, value='Normal').grid(row=1, sticky=W)
 Radiobutton(master, text="OnlyLactose", variable=var, value='OnlyLactose').grid(row=2, sticky=W)
 Radiobutton(master, text="Starvation", variable=var, value='Starvation').grid(row=3, sticky=W)
