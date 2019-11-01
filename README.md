@@ -35,9 +35,9 @@ Modelling and Simulation - University of Groningen
 ## Create you Custom Simulations by following these steps
 
 - Clone this repository
-- Find the "conf.ini" file.
+- Find the **"conf.ini"** file.
   ![](images/conf_ini.PNG)
-- Execute the "ecoli_simulation.py" and select simulation mode "custom"
+- Execute the **"ecoli_simulation.py"** and select **simulation mode "custom"**
   ![](images/CustomSimulationRun.PNG)
 - Done
 
