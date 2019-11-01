@@ -31,3 +31,13 @@ Modelling and Simulation - University of Groningen
  
  ## Ecoli Division under Stable Lactose scenario, with replenishment of food  
  ![](simulations/Ecoli-stableLactose.gif)  
+
+## Create you Custom Simulations by following these steps
+
+- Clone this repository
+- Find the "conf.ini" file.
+  ![](images/conf_ini.PNG)
+- Execute the "ecoli_simulation.py" and select simulation mode "custom"
+  ![](images/CustomSimulationRun.PNG)
+- Done
+
