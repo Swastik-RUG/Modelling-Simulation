@@ -51,7 +51,7 @@ system.
 - **ecoli:** An integer value, which can be used to set the initial ecoli count in the system.
 - **iterations:** Number of iterations the simulation has to be performed.
 - **replenish interval:** If the experimenter wants to simulate an environment where the carbon sources are replenished for specific time-frames. If this value is set to 0, the simulation will not replenish any resources, if it
-is set to a R, where R ¿ 0; the simulation will replenish the carbon sources in the intervals R,2R,3R.....
+is set to a R, where R > 0; the simulation will replenish the carbon sources in the intervals R,2R,3R.....
 - **replenish glucose:** An integer value, which can be set to indicate the glucose count that has to be replenished
 at replenish intervals.
 - **replenish galactose:** An integer value, which can be set to indicate the galactose count that has to be replenished at replenish intervals.
